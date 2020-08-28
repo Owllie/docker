@@ -300,7 +300,7 @@ The default behaviour when upgrading from a docker image that didn't write marke
 
 If you wish to contribute fixes to this repository, please refer to the [dedicated documentation](HACKING.adoc).
 
-# Questions?
+# Questions?..
 
 Jump on irc.freenode.net and the #jenkins room. Ask!
 
